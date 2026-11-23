@@ -1,0 +1,10 @@
+{
+  "desiredContentHash": "a87da18b0ec39810cc5778a624ed168addbbd4350c15acc26142155524fb5c76",
+  "docsUrl": "https://leather-guide.docs.buildwithfern.com",
+  "starter": {
+    "repoOwner": "fern-api",
+    "repoName": "docs-starter-internal",
+    "commitSha": "572bf89d934c52de747c1fad185136827eeb0ce7",
+    "label": "2026-11-19-layout3-centered-tabs"
+  }
+}
