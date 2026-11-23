@@ -10,6 +10,9 @@ navigation:
   - api: New Collection
     slug: new-collection
     flattened: true
+  - changelog: ./changelog
+    title: Blog
+    slug: blog
 colors:
   accent-primary:
     light: "#008700"
